@@ -1,4 +1,6 @@
-WOKWI_PROJECT_ID=334445762078310996
+WOKWI_PROJECT_ID=341182944314917460
+# 7-bit NCO for generating sawtooth and square waves
+#
 # logic puzzle and muxes
 # 4 inverters 334348818476696146
 # the clock divider 334335179919196756
